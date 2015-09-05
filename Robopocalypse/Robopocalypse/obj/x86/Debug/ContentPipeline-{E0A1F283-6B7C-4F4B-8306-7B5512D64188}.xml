@@ -1,0 +1,1001 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font\ConsoleFont12.spritefont</Source>
+      <Name>Font\ConsoleFont12</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Font\ConsoleFont12.xnb</Output>
+      <Time>2015-05-14T16:23:12.641657-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\UIFont.spritefont</Source>
+      <Name>Font\UIFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Font\UIFont.xnb</Output>
+      <Time>2015-05-14T16:23:12.6186557-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\splash.png</Source>
+      <Name>Textures\splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\splash.xnb</Output>
+      <Time>2015-05-14T16:23:12.2256332-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\victory.png</Source>
+      <Name>Textures\victory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\victory.xnb</Output>
+      <Time>2015-05-14T16:23:04.895214-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\frostscreen.png</Source>
+      <Name>Textures\frostscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\frostscreen.xnb</Output>
+      <Time>2015-05-14T16:23:02.1760584-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\gameover.png</Source>
+      <Name>Textures\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\gameover.xnb</Output>
+      <Time>2015-05-14T16:23:09.1024546-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\Drone0.png</Source>
+      <Name>Textures\Player\Drone0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\Drone0.xnb</Output>
+      <Time>2015-05-14T16:23:09.5584807-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Environment\Red.png</Source>
+      <Name>Textures\Environment\Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\Red.xnb</Output>
+      <Time>2015-05-14T16:23:05.386242-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\Drone1.png</Source>
+      <Name>Textures\Player\Drone1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\Drone1.xnb</Output>
+      <Time>2015-05-14T16:23:09.5754817-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Environment\green-04.jpg</Source>
+      <Name>Textures\Environment\green-04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\green-04.xnb</Output>
+      <Time>2015-05-14T16:23:04.9442168-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Powerup\energy.png</Source>
+      <Name>Textures\Powerup\energy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\energy.xnb</Output>
+      <Time>2015-05-14T16:23:03.113112-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Powerup\money.png</Source>
+      <Name>Textures\Powerup\money</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\money.xnb</Output>
+      <Time>2015-05-14T16:23:03.0881106-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Environment\spike_hooked.png</Source>
+      <Name>Textures\Environment\spike_hooked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\spike_hooked.xnb</Output>
+      <Time>2015-05-14T16:23:05.2782359-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\blade_spin_4Frame.png</Source>
+      <Name>Textures\Enemy\blade_spin_4Frame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\blade_spin_4Frame.xnb</Output>
+      <Time>2015-05-14T16:23:11.1765732-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\turret_spin_tall.png</Source>
+      <Name>Textures\Enemy\turret_spin_tall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\turret_spin_tall.xnb</Output>
+      <Time>2015-05-14T16:23:11.837611-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Environment\slowTile.png</Source>
+      <Name>Textures\Environment\slowTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\slowTile.xnb</Output>
+      <Time>2015-05-14T16:23:05.2542345-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\spider_blue_trimmed_shrinked.png</Source>
+      <Name>Textures\Player\spider_blue_trimmed_shrinked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\spider_blue_trimmed_shrinked.xnb</Output>
+      <Time>2015-05-14T16:23:09.3764703-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\spider_orange_trimmed_shrinked.png</Source>
+      <Name>Textures\Player\spider_orange_trimmed_shrinked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\spider_orange_trimmed_shrinked.xnb</Output>
+      <Time>2015-05-14T16:23:09.5944827-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Environment\FloorTile_WinTile.png</Source>
+      <Name>Textures\Environment\FloorTile_WinTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\FloorTile_WinTile.xnb</Output>
+      <Time>2015-05-14T16:23:05.3552403-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Environment\WileTile_Spike_PurpleGold.png</Source>
+      <Name>Textures\Environment\WileTile_Spike_PurpleGold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\WileTile_Spike_PurpleGold.xnb</Output>
+      <Time>2015-05-14T16:23:05.332239-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\bullet.png</Source>
+      <Name>Textures\Enemy\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\bullet.xnb</Output>
+      <Time>2015-05-14T16:23:11.3875853-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Environment\WallTile_PurpleGold.png</Source>
+      <Name>Textures\Environment\WallTile_PurpleGold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\WallTile_PurpleGold.xnb</Output>
+      <Time>2015-05-14T16:23:05.4072432-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Environment\FloorTile_PurpleGold.png</Source>
+      <Name>Textures\Environment\FloorTile_PurpleGold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\FloorTile_PurpleGold.xnb</Output>
+      <Time>2015-05-14T16:23:04.9162152-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\explosion.png</Source>
+      <Name>Textures\Enemy\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\explosion.xnb</Output>
+      <Time>2015-05-14T16:23:11.3195814-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\homing.png</Source>
+      <Name>Textures\Enemy\homing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\homing.xnb</Output>
+      <Time>2015-05-14T16:23:11.3315821-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\round_bullet.png</Source>
+      <Name>Textures\Enemy\round_bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\round_bullet.xnb</Output>
+      <Time>2015-05-14T16:23:11.1855738-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\boss96.png</Source>
+      <Name>Textures\Enemy\boss96</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\boss96.xnb</Output>
+      <Time>2015-05-14T16:23:11.3745846-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\homing_boss.png</Source>
+      <Name>Textures\Enemy\homing_boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\homing_boss.xnb</Output>
+      <Time>2015-05-14T16:23:11.276579-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\homing_boss_death_21.png</Source>
+      <Name>Textures\Enemy\homing_boss_death_21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\homing_boss_death_21.xnb</Output>
+      <Time>2015-05-14T16:23:11.3015804-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Environment\pitfall.png</Source>
+      <Name>Textures\Environment\pitfall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\pitfall.xnb</Output>
+      <Time>2015-05-14T16:23:05.4292445-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Powerup\powerup_coin.png</Source>
+      <Name>Textures\Powerup\powerup_coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_coin.xnb</Output>
+      <Time>2015-05-14T16:23:03.2071174-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Powerup\powerup_energy.png</Source>
+      <Name>Textures\Powerup\powerup_energy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_energy.xnb</Output>
+      <Time>2015-05-14T16:23:03.2571203-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\menu.png</Source>
+      <Name>Textures\Menu\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu.xnb</Output>
+      <Time>2015-05-14T16:23:07.1653438-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\menu_options.png</Source>
+      <Name>Textures\Menu\menu_options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_options.xnb</Output>
+      <Time>2015-05-14T16:23:05.7392622-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\menu_controls.png</Source>
+      <Name>Textures\Menu\menu_controls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_controls.xnb</Output>
+      <Time>2015-05-14T16:23:07.1883451-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\menu_credits.png</Source>
+      <Name>Textures\Menu\menu_credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_credits.xnb</Output>
+      <Time>2015-05-14T16:23:07.0413367-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\menu_display.png</Source>
+      <Name>Textures\Menu\menu_display</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_display.xnb</Output>
+      <Time>2015-05-14T16:23:07.2103464-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\menu_sound.png</Source>
+      <Name>Textures\Menu\menu_sound</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_sound.xnb</Output>
+      <Time>2015-05-14T16:23:05.7192611-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\menu_pause.png</Source>
+      <Name>Textures\Menu\menu_pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_pause.xnb</Output>
+      <Time>2015-05-14T16:23:07.0693383-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\menu_levelup.png</Source>
+      <Name>Textures\Menu\menu_levelup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_levelup.xnb</Output>
+      <Time>2015-05-14T16:23:07.0203355-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\LineTexture.png</Source>
+      <Name>Textures\Player\LineTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\LineTexture.xnb</Output>
+      <Time>2015-05-14T16:23:09.4284733-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\battery.png</Source>
+      <Name>Textures\Player\battery</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\battery.xnb</Output>
+      <Time>2015-05-14T16:23:09.4394739-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\energybar.png</Source>
+      <Name>Textures\Player\energybar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\energybar.xnb</Output>
+      <Time>2015-05-14T16:23:09.4684755-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\TransparentBar.png</Source>
+      <Name>Textures\Player\TransparentBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\TransparentBar.xnb</Output>
+      <Time>2015-05-14T16:23:09.5394796-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\TransparentBar_wavy.png</Source>
+      <Name>Textures\Player\TransparentBar_wavy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\TransparentBar_wavy.xnb</Output>
+      <Time>2015-05-14T16:23:09.1514574-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\battery2.png</Source>
+      <Name>Textures\Player\battery2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\battery2.xnb</Output>
+      <Time>2015-05-14T16:23:09.1374566-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\energyBar_sprite_small.png</Source>
+      <Name>Textures\Player\energyBar_sprite_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\energyBar_sprite_small.xnb</Output>
+      <Time>2015-05-14T16:23:09.127456-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\energyBar_sprite_small2.png</Source>
+      <Name>Textures\Player\energyBar_sprite_small2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\energyBar_sprite_small2.xnb</Output>
+      <Time>2015-05-14T16:23:09.4904768-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\spark.png</Source>
+      <Name>Textures\Player\spark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\spark.xnb</Output>
+      <Time>2015-05-14T16:23:09.5054777-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Powerup\moneypoof.png</Source>
+      <Name>Textures\Powerup\moneypoof</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\moneypoof.xnb</Output>
+      <Time>2015-05-14T16:23:03.2681209-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Powerup\healthpoof.png</Source>
+      <Name>Textures\Powerup\healthpoof</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\healthpoof.xnb</Output>
+      <Time>2015-05-14T16:23:03.1371134-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Powerup\moneypoof_big.png</Source>
+      <Name>Textures\Powerup\moneypoof_big</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\moneypoof_big.xnb</Output>
+      <Time>2015-05-14T16:23:02.1840589-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\TransparentBar_longwavy.png</Source>
+      <Name>Textures\Player\TransparentBar_longwavy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\TransparentBar_longwavy.xnb</Output>
+      <Time>2015-05-14T16:23:09.4504745-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\TransparentBar_wavyshortyellow.png</Source>
+      <Name>Textures\Player\TransparentBar_wavyshortyellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\TransparentBar_wavyshortyellow.xnb</Output>
+      <Time>2015-05-14T16:23:09.4164726-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\TransparentBar_wavyshortred.png</Source>
+      <Name>Textures\Player\TransparentBar_wavyshortred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\TransparentBar_wavyshortred.xnb</Output>
+      <Time>2015-05-14T16:23:09.3924712-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\homing_boss_enrage.png</Source>
+      <Name>Textures\Enemy\homing_boss_enrage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\homing_boss_enrage.xnb</Output>
+      <Time>2015-05-14T16:23:11.3975859-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\fireball.png</Source>
+      <Name>Textures\Enemy\fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\fireball.xnb</Output>
+      <Time>2015-05-14T16:23:11.6546006-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Jumper_boss.png</Source>
+      <Name>Textures\Enemy\Jumper_boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Jumper_boss.xnb</Output>
+      <Time>2015-05-14T16:23:11.7366053-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Rubble.png</Source>
+      <Name>Textures\Enemy\Rubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Rubble.xnb</Output>
+      <Time>2015-05-14T16:23:11.2885796-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Shadow.png</Source>
+      <Name>Textures\Enemy\Shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Shadow.xnb</Output>
+      <Time>2015-05-14T16:23:11.6746017-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Spawner_Boss2.0.png</Source>
+      <Name>Textures\Enemy\Spawner_Boss2.0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Spawner_Boss2.0.xnb</Output>
+      <Time>2015-05-14T16:23:11.6896026-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\TURRETBOSS_Body.png</Source>
+      <Name>Textures\Enemy\TURRETBOSS_Body</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TURRETBOSS_Body.xnb</Output>
+      <Time>2015-05-14T16:23:11.4065864-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\TURRETBOSS_shoulder.png</Source>
+      <Name>Textures\Enemy\TURRETBOSS_shoulder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TURRETBOSS_shoulder.xnb</Output>
+      <Time>2015-05-14T16:23:11.3455829-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\TURRETBOSS_turret.png</Source>
+      <Name>Textures\Enemy\TURRETBOSS_turret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TURRETBOSS_turret.xnb</Output>
+      <Time>2015-05-14T16:23:11.3545834-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\TURRETBOSS_Body_medium.png</Source>
+      <Name>Textures\Enemy\TURRETBOSS_Body_medium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TURRETBOSS_Body_medium.xnb</Output>
+      <Time>2015-05-14T16:23:11.7456058-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\explosion2.png</Source>
+      <Name>Textures\Enemy\explosion2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\explosion2.xnb</Output>
+      <Time>2015-05-14T16:23:11.6025976-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\explosion3.png</Source>
+      <Name>Textures\Enemy\explosion3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\explosion3.xnb</Output>
+      <Time>2015-05-14T16:23:11.6165984-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\explosion_purple.png</Source>
+      <Name>Textures\Enemy\explosion_purple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\explosion_purple.xnb</Output>
+      <Time>2015-05-14T16:23:11.6456001-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\explosion_green.png</Source>
+      <Name>Textures\Enemy\explosion_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\explosion_green.xnb</Output>
+      <Time>2015-05-14T16:23:11.2325764-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\TransparentBar_longwavy_boss.png</Source>
+      <Name>Textures\Enemy\TransparentBar_longwavy_boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TransparentBar_longwavy_boss.xnb</Output>
+      <Time>2015-05-14T16:23:11.609598-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\TransparentBar_wavyshortpink_boss.png</Source>
+      <Name>Textures\Enemy\TransparentBar_wavyshortpink_boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TransparentBar_wavyshortpink_boss.xnb</Output>
+      <Time>2015-05-14T16:23:11.6646012-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\TransparentBar_wavyshortpurple_boss.png</Source>
+      <Name>Textures\Enemy\TransparentBar_wavyshortpurple_boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TransparentBar_wavyshortpurple_boss.xnb</Output>
+      <Time>2015-05-14T16:23:11.417587-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Powerup\powerup_freeze.png</Source>
+      <Name>Textures\Powerup\powerup_freeze</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_freeze.xnb</Output>
+      <Time>2015-05-14T16:23:02.1920594-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Powerup\batterypickup.png</Source>
+      <Name>Textures\Powerup\batterypickup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\batterypickup.xnb</Output>
+      <Time>2015-05-14T16:23:03.0451081-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Powerup\icestop_poof.png</Source>
+      <Name>Textures\Powerup\icestop_poof</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\icestop_poof.xnb</Output>
+      <Time>2015-05-14T16:23:03.1701153-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Powerup\invinciblepoof.png</Source>
+      <Name>Textures\Powerup\invinciblepoof</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\invinciblepoof.xnb</Output>
+      <Time>2015-05-14T16:23:03.0641092-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Bomb2.png</Source>
+      <Name>Textures\Enemy\Bomb2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Bomb2.xnb</Output>
+      <Time>2015-05-14T16:23:11.242577-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\bombing_boss.png</Source>
+      <Name>Textures\Enemy\bombing_boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\bombing_boss.xnb</Output>
+      <Time>2015-05-14T16:23:11.627599-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Laser.png</Source>
+      <Name>Textures\Enemy\Laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Laser.xnb</Output>
+      <Time>2015-05-14T16:23:11.6365995-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\laser_boss.png</Source>
+      <Name>Textures\Enemy\laser_boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\laser_boss.xnb</Output>
+      <Time>2015-05-14T16:23:11.5935971-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\laser_enemy_pink.png</Source>
+      <Name>Textures\Enemy\laser_enemy_pink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\laser_enemy_pink.xnb</Output>
+      <Time>2015-05-14T16:23:11.364584-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\menu_gameover.png</Source>
+      <Name>Textures\Menu\menu_gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_gameover.xnb</Output>
+      <Time>2015-05-14T16:23:07.2313476-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\menu_victory.png</Source>
+      <Name>Textures\Menu\menu_victory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_victory.xnb</Output>
+      <Time>2015-05-14T16:23:07.0903395-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\sheildBubble.png</Source>
+      <Name>Textures\Player\sheildBubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\sheildBubble.xnb</Output>
+      <Time>2015-05-14T16:23:09.5214786-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\menu_levelselect.png</Source>
+      <Name>Textures\Menu\menu_levelselect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_levelselect.xnb</Output>
+      <Time>2015-05-14T16:23:07.2533488-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Spawner_Boss3.0.png</Source>
+      <Name>Textures\Enemy\Spawner_Boss3.0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Spawner_Boss3.0.xnb</Output>
+      <Time>2015-05-14T16:23:11.7256046-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\breakable_rubble.png</Source>
+      <Name>Textures\Enemy\breakable_rubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\breakable_rubble.xnb</Output>
+      <Time>2015-05-14T16:23:11.2525776-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\rockexplosion.png</Source>
+      <Name>Textures\Enemy\rockexplosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\rockexplosion.xnb</Output>
+      <Time>2015-05-14T16:23:11.1985745-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\sheildBubbleBig.png</Source>
+      <Name>Textures\Enemy\sheildBubbleBig</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\sheildBubbleBig.xnb</Output>
+      <Time>2015-05-14T16:23:11.2635782-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Powerup\powerup_coin_single.png</Source>
+      <Name>Textures\Powerup\powerup_coin_single</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_coin_single.xnb</Output>
+      <Time>2015-05-14T16:23:03.2391192-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Powerup\powerup_energy_single.png</Source>
+      <Name>Textures\Powerup\powerup_energy_single</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_energy_single.xnb</Output>
+      <Time>2015-05-14T16:23:03.2761214-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Powerup\powerup_invincible.png</Source>
+      <Name>Textures\Powerup\powerup_invincible</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_invincible.xnb</Output>
+      <Time>2015-05-14T16:23:02.1980597-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Environment\speedtile.png</Source>
+      <Name>Textures\Environment\speedtile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\speedtile.xnb</Output>
+      <Time>2015-05-14T16:23:04.966218-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\energyBar_green.png</Source>
+      <Name>Textures\Player\energyBar_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\energyBar_green.xnb</Output>
+      <Time>2015-05-14T16:23:09.1634581-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\energyBar_red.png</Source>
+      <Name>Textures\Player\energyBar_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\energyBar_red.xnb</Output>
+      <Time>2015-05-14T16:23:09.4044719-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Menu\menu_Statistics.png</Source>
+      <Name>Textures\Menu\menu_Statistics</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_Statistics.xnb</Output>
+      <Time>2015-05-14T16:23:05.7282616-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Bomb.png</Source>
+      <Name>Textures\Enemy\Bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Bomb.xnb</Output>
+      <Time>2015-05-14T16:23:11.3105809-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Explosion.wav</Source>
+      <Name>Audio\Explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Explosion.xnb</Output>
+      <Time>2015-05-14T16:23:01.9560459-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\MenuChangeSelection.wav</Source>
+      <Name>Audio\MenuChangeSelection</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\MenuChangeSelection.xnb</Output>
+      <Time>2015-05-14T16:23:01.9450452-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\MusicTrack1.wav</Source>
+      <Name>Audio\MusicTrack1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\MusicTrack1.xnb</Output>
+      <Time>2015-05-14T16:23:01.0339931-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Pause.wav</Source>
+      <Name>Audio\Pause</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Pause.xnb</Output>
+      <Time>2015-05-14T16:23:01.9140435-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Fall.wav</Source>
+      <Name>Audio\Fall</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Fall.xnb</Output>
+      <Time>2015-05-14T16:23:01.924044-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Invincibility.wav</Source>
+      <Name>Audio\Invincibility</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Invincibility.xnb</Output>
+      <Time>2015-05-14T16:23:01.8940423-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Mystery.wav</Source>
+      <Name>Audio\Mystery</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Mystery.xnb</Output>
+      <Time>2015-05-14T16:23:01.8840417-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Thud.wav</Source>
+      <Name>Audio\Thud</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Thud.xnb</Output>
+      <Time>2015-05-14T16:23:01.8320388-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\TimeStop.wav</Source>
+      <Name>Audio\TimeStop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\TimeStop.xnb</Output>
+      <Time>2015-05-14T16:23:01.8420393-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E0A1F283-6B7C-4F4B-8306-7B5512D64188}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\RobopocalypseContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-01-16T16:22:56.155162-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
