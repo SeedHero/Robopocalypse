@@ -7,8 +7,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Font\ConsoleFont12.xnb</Output>
-      <Time>2015-05-14T16:23:12.641657-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Font\ConsoleFont12.xnb</Output>
+      <Time>2015-09-05T13:38:22.0638016-07:00</Time>
     </Item>
     <Item>
       <Source>Font\UIFont.spritefont</Source>
@@ -16,8 +16,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Font\UIFont.xnb</Output>
-      <Time>2015-05-14T16:23:12.6186557-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Font\UIFont.xnb</Output>
+      <Time>2015-09-05T13:38:22.0487913-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\splash.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\splash.xnb</Output>
-      <Time>2015-05-14T16:23:12.2256332-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\splash.xnb</Output>
+      <Time>2015-09-05T13:38:17.6968513-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\victory.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\victory.xnb</Output>
-      <Time>2015-05-14T16:23:04.895214-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\victory.xnb</Output>
+      <Time>2015-09-05T13:38:17.5917789-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\frostscreen.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\frostscreen.xnb</Output>
-      <Time>2015-05-14T16:23:02.1760584-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\frostscreen.xnb</Output>
+      <Time>2015-09-05T13:38:17.7879161-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\gameover.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\gameover.xnb</Output>
-      <Time>2015-05-14T16:23:09.1024546-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\gameover.xnb</Output>
+      <Time>2015-09-05T13:38:17.8114335-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\Drone0.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\Drone0.xnb</Output>
-      <Time>2015-05-14T16:23:09.5584807-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\Drone0.xnb</Output>
+      <Time>2015-09-05T13:38:19.493507-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Environment\Red.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\Red.xnb</Output>
-      <Time>2015-05-14T16:23:05.386242-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\Red.xnb</Output>
+      <Time>2015-09-05T13:38:19.6416128-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\Drone1.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\Drone1.xnb</Output>
-      <Time>2015-05-14T16:23:09.5754817-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\Drone1.xnb</Output>
+      <Time>2015-09-05T13:38:19.4674889-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Environment\green-04.jpg</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\green-04.xnb</Output>
-      <Time>2015-05-14T16:23:04.9442168-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\green-04.xnb</Output>
+      <Time>2015-09-05T13:38:19.6796403-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Powerup\energy.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\energy.xnb</Output>
-      <Time>2015-05-14T16:23:03.113112-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\energy.xnb</Output>
+      <Time>2015-09-05T13:38:18.9456134-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Powerup\money.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\money.xnb</Output>
-      <Time>2015-05-14T16:23:03.0881106-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\money.xnb</Output>
+      <Time>2015-09-05T13:38:18.8720612-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Environment\spike_hooked.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\spike_hooked.xnb</Output>
-      <Time>2015-05-14T16:23:05.2782359-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\spike_hooked.xnb</Output>
+      <Time>2015-09-05T13:38:19.573564-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\blade_spin_4Frame.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\blade_spin_4Frame.xnb</Output>
-      <Time>2015-05-14T16:23:11.1765732-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\blade_spin_4Frame.xnb</Output>
+      <Time>2015-09-05T13:38:18.6929341-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\turret_spin_tall.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\turret_spin_tall.xnb</Output>
-      <Time>2015-05-14T16:23:11.837611-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\turret_spin_tall.xnb</Output>
+      <Time>2015-09-05T13:38:17.8599765-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Environment\slowTile.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\slowTile.xnb</Output>
-      <Time>2015-05-14T16:23:05.2542345-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\slowTile.xnb</Output>
+      <Time>2015-09-05T13:38:19.5585537-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\spider_blue_trimmed_shrinked.png</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\spider_blue_trimmed_shrinked.xnb</Output>
-      <Time>2015-05-14T16:23:09.3764703-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\spider_blue_trimmed_shrinked.xnb</Output>
+      <Time>2015-09-05T13:38:19.3383966-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\spider_orange_trimmed_shrinked.png</Source>
@@ -160,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\spider_orange_trimmed_shrinked.xnb</Output>
-      <Time>2015-05-14T16:23:09.5944827-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\spider_orange_trimmed_shrinked.xnb</Output>
+      <Time>2015-09-05T13:38:19.3113766-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Environment\FloorTile_WinTile.png</Source>
@@ -169,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\FloorTile_WinTile.xnb</Output>
-      <Time>2015-05-14T16:23:05.3552403-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\FloorTile_WinTile.xnb</Output>
+      <Time>2015-09-05T13:38:19.6286028-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Environment\WileTile_Spike_PurpleGold.png</Source>
@@ -178,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\WileTile_Spike_PurpleGold.xnb</Output>
-      <Time>2015-05-14T16:23:05.332239-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\WileTile_Spike_PurpleGold.xnb</Output>
+      <Time>2015-09-05T13:38:19.521527-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\bullet.png</Source>
@@ -187,8 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\bullet.xnb</Output>
-      <Time>2015-05-14T16:23:11.3875853-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\bullet.xnb</Output>
+      <Time>2015-09-05T13:38:18.5499582-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Environment\WallTile_PurpleGold.png</Source>
@@ -196,8 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\WallTile_PurpleGold.xnb</Output>
-      <Time>2015-05-14T16:23:05.4072432-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\WallTile_PurpleGold.xnb</Output>
+      <Time>2015-09-05T13:38:19.5325344-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Environment\FloorTile_PurpleGold.png</Source>
@@ -205,8 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\FloorTile_PurpleGold.xnb</Output>
-      <Time>2015-05-14T16:23:04.9162152-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\FloorTile_PurpleGold.xnb</Output>
+      <Time>2015-09-05T13:38:19.6936494-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\explosion.png</Source>
@@ -214,8 +214,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\explosion.xnb</Output>
-      <Time>2015-05-14T16:23:11.3195814-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\explosion.xnb</Output>
+      <Time>2015-09-05T13:38:18.574976-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\homing.png</Source>
@@ -223,8 +223,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\homing.xnb</Output>
-      <Time>2015-05-14T16:23:11.3315821-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\homing.xnb</Output>
+      <Time>2015-09-05T13:38:18.3543192-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\round_bullet.png</Source>
@@ -232,8 +232,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\round_bullet.xnb</Output>
-      <Time>2015-05-14T16:23:11.1855738-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\round_bullet.xnb</Output>
+      <Time>2015-09-05T13:38:18.1331614-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\boss96.png</Source>
@@ -241,8 +241,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\boss96.xnb</Output>
-      <Time>2015-05-14T16:23:11.3745846-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\boss96.xnb</Output>
+      <Time>2015-09-05T13:38:18.6225108-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\homing_boss.png</Source>
@@ -250,8 +250,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\homing_boss.xnb</Output>
-      <Time>2015-05-14T16:23:11.276579-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\homing_boss.xnb</Output>
+      <Time>2015-09-05T13:38:18.303783-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\homing_boss_death_21.png</Source>
@@ -259,8 +259,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\homing_boss_death_21.xnb</Output>
-      <Time>2015-05-14T16:23:11.3015804-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\homing_boss_death_21.xnb</Output>
+      <Time>2015-09-05T13:38:18.2782651-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Environment\pitfall.png</Source>
@@ -268,8 +268,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\pitfall.xnb</Output>
-      <Time>2015-05-14T16:23:05.4292445-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\pitfall.xnb</Output>
+      <Time>2015-09-05T13:38:19.589577-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Powerup\powerup_coin.png</Source>
@@ -277,8 +277,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_coin.xnb</Output>
-      <Time>2015-05-14T16:23:03.2071174-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_coin.xnb</Output>
+      <Time>2015-09-05T13:38:18.8535482-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Powerup\powerup_energy.png</Source>
@@ -286,8 +286,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_energy.xnb</Output>
-      <Time>2015-05-14T16:23:03.2571203-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_energy.xnb</Output>
+      <Time>2015-09-05T13:38:18.8055141-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\menu.png</Source>
@@ -295,8 +295,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu.xnb</Output>
-      <Time>2015-05-14T16:23:07.1653438-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu.xnb</Output>
+      <Time>2015-09-05T13:38:19.2057989-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\menu_options.png</Source>
@@ -304,8 +304,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_options.xnb</Output>
-      <Time>2015-05-14T16:23:05.7392622-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_options.xnb</Output>
+      <Time>2015-09-05T13:38:19.0211673-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\menu_controls.png</Source>
@@ -313,8 +313,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_controls.xnb</Output>
-      <Time>2015-05-14T16:23:07.1883451-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_controls.xnb</Output>
+      <Time>2015-09-05T13:38:19.1912884-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\menu_credits.png</Source>
@@ -322,8 +322,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_credits.xnb</Output>
-      <Time>2015-05-14T16:23:07.0413367-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_credits.xnb</Output>
+      <Time>2015-09-05T13:38:19.1227398-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\menu_display.png</Source>
@@ -331,8 +331,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_display.xnb</Output>
-      <Time>2015-05-14T16:23:07.2103464-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_display.xnb</Output>
+      <Time>2015-09-05T13:38:19.1537619-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\menu_sound.png</Source>
@@ -340,8 +340,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_sound.xnb</Output>
-      <Time>2015-05-14T16:23:05.7192611-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_sound.xnb</Output>
+      <Time>2015-09-05T13:38:19.0932214-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\menu_pause.png</Source>
@@ -349,8 +349,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_pause.xnb</Output>
-      <Time>2015-05-14T16:23:07.0693383-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_pause.xnb</Output>
+      <Time>2015-09-05T13:38:19.067701-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\menu_levelup.png</Source>
@@ -358,8 +358,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_levelup.xnb</Output>
-      <Time>2015-05-14T16:23:07.0203355-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_levelup.xnb</Output>
+      <Time>2015-09-05T13:38:19.1077295-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\LineTexture.png</Source>
@@ -367,8 +367,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\LineTexture.xnb</Output>
-      <Time>2015-05-14T16:23:09.4284733-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\LineTexture.xnb</Output>
+      <Time>2015-09-05T13:38:19.3243878-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\battery.png</Source>
@@ -376,8 +376,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\battery.xnb</Output>
-      <Time>2015-05-14T16:23:09.4394739-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\battery.xnb</Output>
+      <Time>2015-09-05T13:38:19.5065167-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\energybar.png</Source>
@@ -385,8 +385,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\energybar.xnb</Output>
-      <Time>2015-05-14T16:23:09.4684755-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\energybar.xnb</Output>
+      <Time>2015-09-05T13:38:19.452479-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\TransparentBar.png</Source>
@@ -394,8 +394,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\TransparentBar.xnb</Output>
-      <Time>2015-05-14T16:23:09.5394796-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\TransparentBar.xnb</Output>
+      <Time>2015-09-05T13:38:19.2258128-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\TransparentBar_wavy.png</Source>
@@ -403,8 +403,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\TransparentBar_wavy.xnb</Output>
-      <Time>2015-05-14T16:23:09.1514574-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\TransparentBar_wavy.xnb</Output>
+      <Time>2015-09-05T13:38:19.2893625-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\battery2.png</Source>
@@ -412,8 +412,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\battery2.xnb</Output>
-      <Time>2015-05-14T16:23:09.1374566-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\battery2.xnb</Output>
+      <Time>2015-09-05T13:38:19.4814985-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\energyBar_sprite_small.png</Source>
@@ -421,8 +421,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\energyBar_sprite_small.xnb</Output>
-      <Time>2015-05-14T16:23:09.127456-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\energyBar_sprite_small.xnb</Output>
+      <Time>2015-09-05T13:38:19.4014423-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\energyBar_sprite_small2.png</Source>
@@ -430,8 +430,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\energyBar_sprite_small2.xnb</Output>
-      <Time>2015-05-14T16:23:09.4904768-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\energyBar_sprite_small2.xnb</Output>
+      <Time>2015-09-05T13:38:19.3814273-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\spark.png</Source>
@@ -439,8 +439,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\spark.xnb</Output>
-      <Time>2015-05-14T16:23:09.5054777-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\spark.xnb</Output>
+      <Time>2015-09-05T13:38:19.3534081-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Powerup\moneypoof.png</Source>
@@ -448,8 +448,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\moneypoof.xnb</Output>
-      <Time>2015-05-14T16:23:03.2681209-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\moneypoof.xnb</Output>
+      <Time>2015-09-05T13:38:18.9015824-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Powerup\healthpoof.png</Source>
@@ -457,8 +457,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\healthpoof.xnb</Output>
-      <Time>2015-05-14T16:23:03.1371134-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\healthpoof.xnb</Output>
+      <Time>2015-09-05T13:38:18.977136-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Powerup\moneypoof_big.png</Source>
@@ -466,8 +466,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\moneypoof_big.xnb</Output>
-      <Time>2015-05-14T16:23:02.1840589-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\moneypoof_big.xnb</Output>
+      <Time>2015-09-05T13:38:18.9190963-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\TransparentBar_longwavy.png</Source>
@@ -475,8 +475,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\TransparentBar_longwavy.xnb</Output>
-      <Time>2015-05-14T16:23:09.4504745-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\TransparentBar_longwavy.xnb</Output>
+      <Time>2015-09-05T13:38:19.2728466-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\TransparentBar_wavyshortyellow.png</Source>
@@ -484,8 +484,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\TransparentBar_wavyshortyellow.xnb</Output>
-      <Time>2015-05-14T16:23:09.4164726-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\TransparentBar_wavyshortyellow.xnb</Output>
+      <Time>2015-09-05T13:38:19.2393234-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\TransparentBar_wavyshortred.png</Source>
@@ -493,8 +493,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\TransparentBar_wavyshortred.xnb</Output>
-      <Time>2015-05-14T16:23:09.3924712-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\TransparentBar_wavyshortred.xnb</Output>
+      <Time>2015-09-05T13:38:19.2573354-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\homing_boss_enrage.png</Source>
@@ -502,8 +502,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\homing_boss_enrage.xnb</Output>
-      <Time>2015-05-14T16:23:11.3975859-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\homing_boss_enrage.xnb</Output>
+      <Time>2015-09-05T13:38:18.2562498-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\fireball.png</Source>
@@ -511,8 +511,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\fireball.xnb</Output>
-      <Time>2015-05-14T16:23:11.6546006-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\fireball.xnb</Output>
+      <Time>2015-09-05T13:38:18.4393793-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\Jumper_boss.png</Source>
@@ -520,8 +520,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Jumper_boss.xnb</Output>
-      <Time>2015-05-14T16:23:11.7366053-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Jumper_boss.xnb</Output>
+      <Time>2015-09-05T13:38:18.2287352-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\Rubble.png</Source>
@@ -529,8 +529,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Rubble.xnb</Output>
-      <Time>2015-05-14T16:23:11.2885796-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Rubble.xnb</Output>
+      <Time>2015-09-05T13:38:18.0921322-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\Shadow.png</Source>
@@ -538,8 +538,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Shadow.xnb</Output>
-      <Time>2015-05-14T16:23:11.6746017-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Shadow.xnb</Output>
+      <Time>2015-09-05T13:38:18.0761204-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\Spawner_Boss2.0.png</Source>
@@ -547,8 +547,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Spawner_Boss2.0.xnb</Output>
-      <Time>2015-05-14T16:23:11.6896026-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Spawner_Boss2.0.xnb</Output>
+      <Time>2015-09-05T13:38:17.9940632-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\TURRETBOSS_Body.png</Source>
@@ -556,8 +556,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TURRETBOSS_Body.xnb</Output>
-      <Time>2015-05-14T16:23:11.4065864-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TURRETBOSS_Body.xnb</Output>
+      <Time>2015-09-05T13:38:17.924013-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\TURRETBOSS_shoulder.png</Source>
@@ -565,8 +565,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TURRETBOSS_shoulder.xnb</Output>
-      <Time>2015-05-14T16:23:11.3455829-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TURRETBOSS_shoulder.xnb</Output>
+      <Time>2015-09-05T13:38:17.8809824-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\TURRETBOSS_turret.png</Source>
@@ -574,8 +574,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TURRETBOSS_turret.xnb</Output>
-      <Time>2015-05-14T16:23:11.3545834-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TURRETBOSS_turret.xnb</Output>
+      <Time>2015-09-05T13:38:17.8949923-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\TURRETBOSS_Body_medium.png</Source>
@@ -583,8 +583,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TURRETBOSS_Body_medium.xnb</Output>
-      <Time>2015-05-14T16:23:11.7456058-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TURRETBOSS_Body_medium.xnb</Output>
+      <Time>2015-09-05T13:38:17.9110037-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\explosion2.png</Source>
@@ -592,8 +592,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\explosion2.xnb</Output>
-      <Time>2015-05-14T16:23:11.6025976-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\explosion2.xnb</Output>
+      <Time>2015-09-05T13:38:18.4774064-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\explosion3.png</Source>
@@ -601,8 +601,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\explosion3.xnb</Output>
-      <Time>2015-05-14T16:23:11.6165984-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\explosion3.xnb</Output>
+      <Time>2015-09-05T13:38:18.5024246-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\explosion_purple.png</Source>
@@ -610,8 +610,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\explosion_purple.xnb</Output>
-      <Time>2015-05-14T16:23:11.6456001-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\explosion_purple.xnb</Output>
+      <Time>2015-09-05T13:38:18.3262997-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\explosion_green.png</Source>
@@ -619,8 +619,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\explosion_green.xnb</Output>
-      <Time>2015-05-14T16:23:11.2325764-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\explosion_green.xnb</Output>
+      <Time>2015-09-05T13:38:18.4603947-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\TransparentBar_longwavy_boss.png</Source>
@@ -628,8 +628,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TransparentBar_longwavy_boss.xnb</Output>
-      <Time>2015-05-14T16:23:11.609598-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TransparentBar_longwavy_boss.xnb</Output>
+      <Time>2015-09-05T13:38:17.969045-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\TransparentBar_wavyshortpink_boss.png</Source>
@@ -637,8 +637,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TransparentBar_wavyshortpink_boss.xnb</Output>
-      <Time>2015-05-14T16:23:11.6646012-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TransparentBar_wavyshortpink_boss.xnb</Output>
+      <Time>2015-09-05T13:38:17.9400248-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\TransparentBar_wavyshortpurple_boss.png</Source>
@@ -646,8 +646,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TransparentBar_wavyshortpurple_boss.xnb</Output>
-      <Time>2015-05-14T16:23:11.417587-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\TransparentBar_wavyshortpurple_boss.xnb</Output>
+      <Time>2015-09-05T13:38:17.9545341-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Powerup\powerup_freeze.png</Source>
@@ -655,8 +655,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_freeze.xnb</Output>
-      <Time>2015-05-14T16:23:02.1920594-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_freeze.xnb</Output>
+      <Time>2015-09-05T13:38:18.7609822-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Powerup\batterypickup.png</Source>
@@ -664,8 +664,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\batterypickup.xnb</Output>
-      <Time>2015-05-14T16:23:03.0451081-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\batterypickup.xnb</Output>
+      <Time>2015-09-05T13:38:18.9991576-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Powerup\icestop_poof.png</Source>
@@ -673,8 +673,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\icestop_poof.xnb</Output>
-      <Time>2015-05-14T16:23:03.1701153-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\icestop_poof.xnb</Output>
+      <Time>2015-09-05T13:38:18.9616252-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Powerup\invinciblepoof.png</Source>
@@ -682,8 +682,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\invinciblepoof.xnb</Output>
-      <Time>2015-05-14T16:23:03.0641092-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\invinciblepoof.xnb</Output>
+      <Time>2015-09-05T13:38:18.8865717-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\Bomb2.png</Source>
@@ -691,8 +691,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Bomb2.xnb</Output>
-      <Time>2015-05-14T16:23:11.242577-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Bomb2.xnb</Output>
+      <Time>2015-09-05T13:38:18.6784236-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\bombing_boss.png</Source>
@@ -700,8 +700,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\bombing_boss.xnb</Output>
-      <Time>2015-05-14T16:23:11.627599-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\bombing_boss.xnb</Output>
+      <Time>2015-09-05T13:38:18.6584102-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\Laser.png</Source>
@@ -709,8 +709,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Laser.xnb</Output>
-      <Time>2015-05-14T16:23:11.6365995-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Laser.xnb</Output>
+      <Time>2015-09-05T13:38:18.204212-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\laser_boss.png</Source>
@@ -718,8 +718,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\laser_boss.xnb</Output>
-      <Time>2015-05-14T16:23:11.5935971-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\laser_boss.xnb</Output>
+      <Time>2015-09-05T13:38:18.1776937-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\laser_enemy_pink.png</Source>
@@ -727,8 +727,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\laser_enemy_pink.xnb</Output>
-      <Time>2015-05-14T16:23:11.364584-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\laser_enemy_pink.xnb</Output>
+      <Time>2015-09-05T13:38:18.1501735-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\menu_gameover.png</Source>
@@ -736,8 +736,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_gameover.xnb</Output>
-      <Time>2015-05-14T16:23:07.2313476-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_gameover.xnb</Output>
+      <Time>2015-09-05T13:38:19.1742787-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\menu_victory.png</Source>
@@ -745,8 +745,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_victory.xnb</Output>
-      <Time>2015-05-14T16:23:07.0903395-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_victory.xnb</Output>
+      <Time>2015-09-05T13:38:19.036178-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\sheildBubble.png</Source>
@@ -754,8 +754,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\sheildBubble.xnb</Output>
-      <Time>2015-05-14T16:23:09.5214786-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\sheildBubble.xnb</Output>
+      <Time>2015-09-05T13:38:19.3674177-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\menu_levelselect.png</Source>
@@ -763,8 +763,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_levelselect.xnb</Output>
-      <Time>2015-05-14T16:23:07.2533488-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_levelselect.xnb</Output>
+      <Time>2015-09-05T13:38:19.1377513-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\Spawner_Boss3.0.png</Source>
@@ -772,8 +772,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Spawner_Boss3.0.xnb</Output>
-      <Time>2015-05-14T16:23:11.7256046-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Spawner_Boss3.0.xnb</Output>
+      <Time>2015-09-05T13:38:18.0481021-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\breakable_rubble.png</Source>
@@ -781,8 +781,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\breakable_rubble.xnb</Output>
-      <Time>2015-05-14T16:23:11.2525776-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\breakable_rubble.xnb</Output>
+      <Time>2015-09-05T13:38:18.6029968-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\rockexplosion.png</Source>
@@ -790,8 +790,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\rockexplosion.xnb</Output>
-      <Time>2015-05-14T16:23:11.1985745-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\rockexplosion.xnb</Output>
+      <Time>2015-09-05T13:38:18.1136485-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\sheildBubbleBig.png</Source>
@@ -799,8 +799,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\sheildBubbleBig.xnb</Output>
-      <Time>2015-05-14T16:23:11.2635782-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\sheildBubbleBig.xnb</Output>
+      <Time>2015-09-05T13:38:18.0621109-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Powerup\powerup_coin_single.png</Source>
@@ -808,8 +808,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_coin_single.xnb</Output>
-      <Time>2015-05-14T16:23:03.2391192-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_coin_single.xnb</Output>
+      <Time>2015-09-05T13:38:18.8220256-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Powerup\powerup_energy_single.png</Source>
@@ -817,8 +817,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_energy_single.xnb</Output>
-      <Time>2015-05-14T16:23:03.2761214-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_energy_single.xnb</Output>
+      <Time>2015-09-05T13:38:18.7850056-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Powerup\powerup_invincible.png</Source>
@@ -826,8 +826,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_invincible.xnb</Output>
-      <Time>2015-05-14T16:23:02.1980597-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Powerup\powerup_invincible.xnb</Output>
+      <Time>2015-09-05T13:38:18.7299605-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Environment\speedtile.png</Source>
@@ -835,8 +835,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\speedtile.xnb</Output>
-      <Time>2015-05-14T16:23:04.966218-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Environment\speedtile.xnb</Output>
+      <Time>2015-09-05T13:38:19.5455437-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\energyBar_green.png</Source>
@@ -844,8 +844,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\energyBar_green.xnb</Output>
-      <Time>2015-05-14T16:23:09.1634581-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\energyBar_green.xnb</Output>
+      <Time>2015-09-05T13:38:19.4384675-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Player\energyBar_red.png</Source>
@@ -853,8 +853,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\energyBar_red.xnb</Output>
-      <Time>2015-05-14T16:23:09.4044719-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Player\energyBar_red.xnb</Output>
+      <Time>2015-09-05T13:38:19.4214553-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\menu_Statistics.png</Source>
@@ -862,8 +862,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_Statistics.xnb</Output>
-      <Time>2015-05-14T16:23:05.7282616-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Menu\menu_Statistics.xnb</Output>
+      <Time>2015-09-05T13:38:19.0516892-07:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemy\Bomb.png</Source>
@@ -871,8 +871,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Bomb.xnb</Output>
-      <Time>2015-05-14T16:23:11.3105809-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Textures\Enemy\Bomb.xnb</Output>
+      <Time>2015-09-05T13:38:18.7089451-07:00</Time>
     </Item>
     <Item>
       <Source>Audio\Explosion.wav</Source>
@@ -880,8 +880,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Explosion.xnb</Output>
-      <Time>2015-05-14T16:23:01.9560459-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Explosion.xnb</Output>
+      <Time>2015-09-05T13:38:20.472237-07:00</Time>
     </Item>
     <Item>
       <Source>Audio\MenuChangeSelection.wav</Source>
@@ -889,8 +889,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\MenuChangeSelection.xnb</Output>
-      <Time>2015-05-14T16:23:01.9450452-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\MenuChangeSelection.xnb</Output>
+      <Time>2015-09-05T13:38:20.3695024-07:00</Time>
     </Item>
     <Item>
       <Source>Audio\MusicTrack1.wav</Source>
@@ -898,8 +898,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\MusicTrack1.xnb</Output>
-      <Time>2015-05-14T16:23:01.0339931-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\MusicTrack1.xnb</Output>
+      <Time>2015-09-05T13:38:20.8910088-07:00</Time>
     </Item>
     <Item>
       <Source>Audio\Pause.wav</Source>
@@ -907,8 +907,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Pause.xnb</Output>
-      <Time>2015-05-14T16:23:01.9140435-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Pause.xnb</Output>
+      <Time>2015-09-05T13:38:20.3104576-07:00</Time>
     </Item>
     <Item>
       <Source>Audio\Fall.wav</Source>
@@ -916,8 +916,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Fall.xnb</Output>
-      <Time>2015-05-14T16:23:01.924044-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Fall.xnb</Output>
+      <Time>2015-09-05T13:38:20.4085298-07:00</Time>
     </Item>
     <Item>
       <Source>Audio\Invincibility.wav</Source>
@@ -925,8 +925,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Invincibility.xnb</Output>
-      <Time>2015-05-14T16:23:01.8940423-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Invincibility.xnb</Output>
+      <Time>2015-09-05T13:38:20.3304715-07:00</Time>
     </Item>
     <Item>
       <Source>Audio\Mystery.wav</Source>
@@ -934,8 +934,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Mystery.xnb</Output>
-      <Time>2015-05-14T16:23:01.8840417-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Mystery.xnb</Output>
+      <Time>2015-09-05T13:38:20.3494885-07:00</Time>
     </Item>
     <Item>
       <Source>Audio\Thud.wav</Source>
@@ -943,8 +943,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Thud.xnb</Output>
-      <Time>2015-05-14T16:23:01.8320388-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\Thud.xnb</Output>
+      <Time>2015-09-05T13:38:20.2354038-07:00</Time>
     </Item>
     <Item>
       <Source>Audio\TimeStop.wav</Source>
@@ -952,8 +952,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\TimeStop.xnb</Output>
-      <Time>2015-05-14T16:23:01.8420393-04:00</Time>
+      <Output>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\Audio\TimeStop.xnb</Output>
+      <Time>2015-09-05T13:38:20.2133881-07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -962,39 +962,39 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\RobopocalypseContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\RobopocalypseContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Cody\Documents\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-07:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2011-09-01T17:22:30-04:00</Value>
+        <Value>2011-09-01T16:22:30-07:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2014-01-16T16:22:56.155162-05:00</Value>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-09-06T13:56:05.9320369-07:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
