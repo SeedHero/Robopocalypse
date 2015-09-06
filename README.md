@@ -32,3 +32,9 @@ My contributions:
   - Level 10 Jumper Boss
 
 - Story Writeup
+
+============================================================================================================
+
+Thanks for checking out my work and I hope you enjoy what we created!
+
+-Cody Garvey
