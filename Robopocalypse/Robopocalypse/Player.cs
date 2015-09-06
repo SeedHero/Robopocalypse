@@ -502,7 +502,7 @@ namespace Robopocalypse
                 else // Spider 2 Movement if Multiplayer
                 {
 #if WINDOWS
-                    stickTiltX2 = GameState.inputManager.Horizontal(playerNum);
+                    stickTiltX2 = GameState.inputManager.HorizontalAlt(playerNum);
                     if (stickTiltX2 != 0)
                     {
                         if (velocity.X < 0)
@@ -527,7 +527,7 @@ namespace Robopocalypse
 
                     accel = baseAccel + accelBonus;
 
-                    stickTiltY2 = GameState.inputManager.Vertical(playerNum);
+                    stickTiltY2 = GameState.inputManager.VerticalAlt(playerNum);
 
                     if (stickTiltY2 != 0)
                     {

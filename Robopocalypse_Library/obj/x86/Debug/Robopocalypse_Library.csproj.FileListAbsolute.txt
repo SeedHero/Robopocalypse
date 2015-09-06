@@ -4,3 +4,9 @@ C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse_Libr
 C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse_Library\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse_Library\obj\x86\Debug\Robopocalypse_Library.dll
 C:\Users\Seed\Documents\Visual Studio 2013\Projects\PostClass\Robopocalypse_Library\obj\x86\Debug\Robopocalypse_Library.pdb
+C:\Users\Cody\Documents\Robopocalypse\Robopocalypse_Library\bin\x86\Debug\Robopocalypse_Library.dll
+C:\Users\Cody\Documents\Robopocalypse\Robopocalypse_Library\bin\x86\Debug\Robopocalypse_Library.pdb
+C:\Users\Cody\Documents\Robopocalypse\Robopocalypse_Library\obj\x86\Debug\Robopocalypse_Library.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Documents\Robopocalypse\Robopocalypse_Library\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cody\Documents\Robopocalypse\Robopocalypse_Library\obj\x86\Debug\Robopocalypse_Library.dll
+C:\Users\Cody\Documents\Robopocalypse\Robopocalypse_Library\obj\x86\Debug\Robopocalypse_Library.pdb
