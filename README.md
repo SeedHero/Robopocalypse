@@ -1,20 +1,20 @@
-To Run:
+<b>To Run:</b>
 
-Use Installer xnafx40_redist.ms in XNA_Setup Folderi to Install XNA Framework
+Use installer xnafx40_redist.ms in XNA_Setup folder to install XNA framework.
 
-Run Game from shortcut in top folder
+Run game from shortcut in top folder
 
 ============================================================================================================
 
-To gain functionality in Visual Studio:
+<b>To gain functionality in Visual Studio:</b>
 
-Use Installer xnafx40_redist.msi in XNA_Setup Folder to Install XNA Framework
+Use installer xnafx40_redist.msi in XNA_Setup folder to install XNA framework
 
 Install XNA tools for Visual Studio in the folder corresponding to your version.
 
 ============================================================================================================
 
-My contributions:
+<b>My contributions:</b>
 
  - Everything involving the player including collision detection, movement, damage, etc. (Not the artwork.)
  
