@@ -1,5 +1,5 @@
 //Main Game level 7
-T,Level 7;We inspected the AI in the bomber enemy and made some amazing discoveries.;The AI was written with the sole intent of killing humans.;They are not finding targets based on race but rather on sentience.;A quick scan is done of all objects nearby and if you can quickly;be revealed as not following an automated script or an AI you are a threat.;The truly worrisome part of the bomber AI is a chunk that looked rushed;specifically pertaining to us. HE did not learn our weakness.;But someone or something did.;And that someone or something has access to these robots' AI.
+T,Level 7;We inspected the AI in the bomber robot and made some amazing discoveries.;The AI was written with the sole intent of killing humans.;They are not finding targets based on race but rather on sentience.;A quick scan is done of all objects nearby and if you can quickly;be revealed as not following an automated script or an AI you are a threat.;The truly worrisome part of the bomber AI is a chunk that looked rushed;specifically pertaining to us. HE did not learn our weakness.;But someone or something did.;And that someone or something has access to these robots' AI.
 //Player Position
 H,100,160,100,384
 //Starter Floor
