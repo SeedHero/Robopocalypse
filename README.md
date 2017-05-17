@@ -2,7 +2,8 @@
 
 Use installer xnafx40_redist.ms in XNA_Setup folder to install XNA framework.
 
-Run game from shortcut in top folder
+The .exe is located at:
+\Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Robopocalypse.exe
 
 ============================================================================================================
 
