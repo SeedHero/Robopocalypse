@@ -1,7 +1,5 @@
 <b>To Run:</b>
 
-Use installer xnafx40_redist.ms in XNA_Setup folder to install XNA framework.
-
 The .exe is located at:
 \Robopocalypse\Robopocalypse\Robopocalypse\bin\x86\Debug\Robopocalypse.exe
 
@@ -25,7 +23,7 @@ Install XNA tools for Visual Studio in the folder corresponding to your version.
  
  - All game statistics recorded throughout the game
  
- - A handful of level and boss designs including:
+ - A handful of level and boss designs/scripts including:
   - All 3 tutorial levels and boss.
   - Main Game level 4
   - Main Game level 9
